@@ -15,3 +15,4 @@ fi
 
 git submodule init
 git submodule update
+rm -r ~/.vim/bundle/snipmate/snippets/*
